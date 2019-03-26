@@ -1,5 +1,7 @@
 # vue-typescript-starter
 
+> 通用项目开发模板，总结项目最佳实践
+
 ## Project setup
 ```
 npm install
