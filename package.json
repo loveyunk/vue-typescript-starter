@@ -11,6 +11,8 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "qs": "^6.7.0",
     "vue": "^2.6.6",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
@@ -19,6 +21,7 @@
   },
   "devDependencies": {
     "@types/jest": "^23.1.4",
+    "@types/qs": "^6.5.2",
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-plugin-typescript": "^3.5.0",
     "@vue/cli-plugin-unit-jest": "^3.5.0",
